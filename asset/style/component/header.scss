@@ -1,0 +1,11 @@
+header a {
+    color: black;
+
+    &hover {
+        color: $tertiary-color;
+    }
+}
+
+header i {
+    color: $secondary-color;
+}

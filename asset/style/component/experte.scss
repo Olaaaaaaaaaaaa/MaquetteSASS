@@ -1,0 +1,18 @@
+#experte span {
+    color: $secondary-color;
+}
+
+#experte .bg-main {
+    background-color: $main-color;
+}
+
+#experte p {
+    color: white;
+}
+
+#experte .img-experte {
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+
+}

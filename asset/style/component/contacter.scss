@@ -1,0 +1,21 @@
+#contacter .bg-contacter {
+    z-index: -1;
+    background-color: $main-color;
+    width: 100%;
+    height: 400px;
+    position: absolute;
+    margin-top: 5rem;
+}
+
+#contacter span {
+    color: $secondary-color;
+}
+
+#contacter i {
+    font-size: 30px;
+    color: $secondary-color;
+}
+
+#contacter .btn-contacter {
+    background-color: $secondary-color;
+}
